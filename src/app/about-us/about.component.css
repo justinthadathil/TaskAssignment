@@ -1,0 +1,15 @@
+.cardweb{
+  width: 30rem;
+  margin: 80px auto;
+  text-align: center;
+}
+
+
+@media (max-width: 575.98px) {
+  .cardmob{
+    width: auto;
+    margin: 90px 35px;
+    text-align: center;
+  }
+}
+
